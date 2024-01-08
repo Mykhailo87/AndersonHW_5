@@ -80,7 +80,7 @@ class Stack {
             stackFromIterable.push(item);
         }
 
-        return newStack;
+        return stackFromIterable;
     }
 
     isValidNumber(num) {
